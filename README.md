@@ -45,7 +45,23 @@ fun_fact: I love basketball, art, movies, and music 🎶
 *(more on my [GitHub Repositories](https://github.com/iriaPM?tab=repositories))*
 
 ---
+💼 Experience
+Software Engineering Intern
+Workhuman | Jan-July 2025 | Dublin, Ireland
 
+- Contributed to both iOS and Android development using SwiftUI and Kotlin Compose, delivering real production features,
+accessibility improvements, and bug fixes
+- Added and deployed app translations in an Oracle database integrated into a monolith architecture, following a release train;
+demonstrating internationalization, backend, and database experience.
+- Managed end-to-end releases of an iOS app into production, ensuring smooth delivery to end users
+- Led stand-ups, gave team demos, wrote internal documentation, and performed code reviews to maintain code quality.
+- Collaborated cross-functionally with designers, engineers, and QA to build user-facing features.
+- Gained experience with tools like Xcode, Android Studio, Bitrise, SonarCloud, GitLab, and more.
+- Learned to navigate a large codebase in an agile workflow, writing unit tests and participating in sprint planning
+
+Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • SonarQube • and more
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -53,7 +69,20 @@ fun_fact: I love basketball, art, movies, and music 🎶
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iriaPM&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+# 🔥 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriaPM&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iriaPM&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</p>
+
+# 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iriaPM&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
 ---
+
 
 ## 🌐 Connect With Me
 
