@@ -5,9 +5,6 @@
 🌍 Multilingual (English, Spanish) and adaptable, eager to contribute to innovative software solutions.  
 
 ---
-
-<!-- About Me in YAML-style -->
-```yaml
 role: Final-year CS Student
 interests:
   - Software Development
@@ -15,7 +12,6 @@ interests:
   - AI / Machine Learning
   - Full-stack Web
 fun_fact: I love basketball, art, movies, and music 🎶
-```
 
 ## 🔧 Tech Stack & Tools
 
@@ -74,4 +70,4 @@ fun_fact: I love basketball, art, movies, and music 🎶
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
 </p>
-```
+
