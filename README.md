@@ -50,13 +50,13 @@ fun_fact: I love basketball, art, movies, and music 🎶
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://github.com/iriaPM/iriaPM/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;iOS+%26+Android+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iriaPM&color=blueviolet" alt="Profile Views" />
+</p>
 
 ## 🌐 Connect With Me
 
