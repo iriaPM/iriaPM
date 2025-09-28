@@ -45,7 +45,7 @@ fun_fact: I love basketball, art, movies, and music 🎶
 *(more on my [GitHub Repositories](https://github.com/iriaPM?tab=repositories))*
 
 ---
-💼 Experience
+## 💼 Experience
 Software Engineering Intern
 Workhuman | Jan-July 2025 | Dublin, Ireland
 
