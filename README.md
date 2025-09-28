@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;iOS+%26+Android+Developer;Always+learning+new+things" alt="Typing SVG" />
+</p>
 # Hi, I'm Iria Parada 👩‍💻  
 
 🎓 Final-year Computer Science student at [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
@@ -50,13 +53,7 @@ fun_fact: I love basketball, art, movies, and music 🎶
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;iOS+%26+Android+Developer;Always+learning+new+things" alt="Typing SVG" />
-</p>
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iriaPM&color=blueviolet" alt="Profile Views" />
-</p>
 
 ## 🌐 Connect With Me
 
@@ -64,6 +61,9 @@ fun_fact: I love basketball, art, movies, and music 🎶
   <a href="mailto:iria.parada03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/iria-parada-murciego/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/iriaPM"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iriaPM&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
