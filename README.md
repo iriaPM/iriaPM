@@ -15,7 +15,7 @@
   - Mobile Apps (iOS + Android)
   - AI / Machine Learning
   - Full-stack Web
-fun_fact: I love basketball, art, movies, and music 🎶
+  -   fun_fact: I love basketball, art, movies, and music 🎶
 ---
 
 ## 📂 Featured Projects
