@@ -5,8 +5,8 @@
 🌍 Multilingual (English, Spanish) and adaptable, eager to contribute to innovative software solutions.  
 
 ---
-role: Final-year CS Student
-interests:
+## Final-year CS Student
+### interests:
   - Software Development
   - Mobile Apps (iOS + Android)
   - AI / Machine Learning
