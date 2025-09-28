@@ -53,8 +53,9 @@ fun_fact: I love basketball, art, movies, and music 🎶
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/iriaPM/iriaPM/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="https://github.com/iriaPM/iriaPM/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 ---
 
 ## 🌐 Connect With Me
