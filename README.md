@@ -54,7 +54,6 @@ fun_fact: I love basketball, art, movies, and music 🎶
 </p>
 
 ---
----
 
 ## 🌐 Connect With Me
 
