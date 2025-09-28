@@ -69,18 +69,19 @@ Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • Son
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iriaPM&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-# 🔥 GitHub Activity
+## 🔥 GitHub Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriaPM&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iriaPM&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
-
+<!--
 # 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iriaPM&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
+-->
 ---
 
 
