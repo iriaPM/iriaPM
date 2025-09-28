@@ -16,7 +16,18 @@
   - AI / Machine Learning
   - Full-stack Web
 fun_fact: I love basketball, art, movies, and music 🎶
+---
 
+## 📂 Featured Projects
+
+* 🎵 [Album Finder](https://github.com/iriaPM/AlbumFinder) — iOS app using LastFM API to search & save music albums.
+* 🍴 [Restaurant Review App](https://github.com/TU856-MSD-24/Group01_MSD_Project) — Android app in Kotlin with Compose.
+* 📚 [Library Website](https://github.com/iriaPM/Library-Website) — PHP + MySQL database integration.
+* 🎨 [Music Visuals](https://github.com/mymunaalom/MusicVisuals) — Java project for real-time music visualizations.
+
+*(more on my [GitHub Repositories](https://github.com/iriaPM?tab=repositories))*
+
+---
 ## 🔧 Tech Stack & Tools
 
 ### 💻 Programming Languages
@@ -52,18 +63,8 @@ fun_fact: I love basketball, art, movies, and music 🎶
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+--- 
 
-## 📂 Featured Projects
-
-* 🎵 [Album Finder](https://github.com/iriaPM/AlbumFinder) — iOS app using LastFM API to search & save music albums.
-* 🍴 [Restaurant Review App](https://github.com/TU856-MSD-24/Group01_MSD_Project) — Android app in Kotlin with Compose.
-* 📚 [Library Website](https://github.com/iriaPM/Library-Website) — PHP + MySQL database integration.
-* 🎨 [Music Visuals](https://github.com/mymunaalom/MusicVisuals) — Java project for real-time music visualizations.
-
-*(more on my [GitHub Repositories](https://github.com/iriaPM?tab=repositories))*
-
----
 ## 💼 Experience
 ### Workhuman
 Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
