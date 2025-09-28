@@ -82,8 +82,6 @@ Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • Son
   <img src="https://github-profile-trophy.vercel.app/?username=iriaPM&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </p>
 -->
----
-
 
 ## 🌐 Connect With Me
 
