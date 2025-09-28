@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;iOS+%26+Android+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
----
+
 # Hi, I'm Iria Parada 👩‍💻  
 
 🎓 Final-year Computer Science student at [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
