@@ -46,8 +46,8 @@ fun_fact: I love basketball, art, movies, and music 🎶
 
 ---
 ## 💼 Experience
-Software Engineering Intern
-Workhuman | Jan-July 2025 | Dublin, Ireland
+### Workhuman
+Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
 
 - Contributed to both iOS and Android development using SwiftUI and Kotlin Compose, delivering real production features,
 accessibility improvements, and bug fixes
