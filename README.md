@@ -28,6 +28,23 @@
 *(more on my [GitHub Repositories](https://github.com/iriaPM?tab=repositories))*
 
 ---
+## 💼 Experience
+### Workhuman
+Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
+
+- Contributed to both iOS and Android development using SwiftUI and Kotlin Compose, delivering real production features,
+accessibility improvements, and bug fixes
+- Added and deployed app translations in an Oracle database integrated into a monolith architecture, following a release train;
+demonstrating internationalization, backend, and database experience.
+- Managed end-to-end releases of an iOS app into production, ensuring smooth delivery to end users
+- Led stand-ups, gave team demos, wrote internal documentation, and performed code reviews to maintain code quality.
+- Collaborated cross-functionally with designers, engineers, and QA to build user-facing features.
+- Gained experience with tools like Xcode, Android Studio, Bitrise, SonarCloud, GitLab, and more.
+- Learned to navigate a large codebase in an agile workflow, writing unit tests and participating in sprint planning
+
+Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • SonarQube • and more
+
+---
 ## 🔧 Tech Stack & Tools
 
 ### 💻 Programming Languages
@@ -64,24 +81,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 --- 
-
-## 💼 Experience
-### Workhuman
-Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
-
-- Contributed to both iOS and Android development using SwiftUI and Kotlin Compose, delivering real production features,
-accessibility improvements, and bug fixes
-- Added and deployed app translations in an Oracle database integrated into a monolith architecture, following a release train;
-demonstrating internationalization, backend, and database experience.
-- Managed end-to-end releases of an iOS app into production, ensuring smooth delivery to end users
-- Led stand-ups, gave team demos, wrote internal documentation, and performed code reviews to maintain code quality.
-- Collaborated cross-functionally with designers, engineers, and QA to build user-facing features.
-- Gained experience with tools like Xcode, Android Studio, Bitrise, SonarCloud, GitLab, and more.
-- Learned to navigate a large codebase in an agile workflow, writing unit tests and participating in sprint planning
-
-Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • SonarQube • and more
-
----
 ## 📈 GitHub Stats
 
 <p align="center">
