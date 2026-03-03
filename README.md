@@ -79,26 +79,10 @@ Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • Son
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 --- 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iriaPM&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iriaPM&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 ## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iriaPM&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iriaPM&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p>
-<!--
-# 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iriaPM&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</p>
--->
 
 ## 🌐 Connect With Me
 
@@ -107,13 +91,5 @@ Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • Son
   <a href="https://www.linkedin.com/in/iria-parada-murciego/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/iriaPM"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iriaPM&color=blueviolet" alt="Profile Views" />
-</p>
-
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100"/>
-</p>
 
