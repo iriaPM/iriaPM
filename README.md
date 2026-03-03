@@ -4,9 +4,9 @@
 
 # Hi, Iria Here! 👩‍💻  
 
-🎓 Final-year Computer Science student at [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
-💡 Experienced in SwiftUI, Kotlin Compose, and web technologies through industry internships and personal projects.  
-🌍 Multilingual (English, Spanish) and adaptable, eager to contribute to innovative software solutions.  
+Final-year Computer Science student at [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
+Experienced in SwiftUI, Kotlin Compose, and web technologies through industry internships and personal projects.  
+Multilingual (English, Spanish) and adaptable, eager to contribute to innovative software solutions.  
 
 ---
 ## Final-year CS Student
@@ -15,18 +15,18 @@
   - Mobile Apps (iOS + Android)
   - AI / Machine Learning
   - Full-stack Web
-  -   fun_fact: I love basketball, art, movies, and music 🎶
+  - I love basketball, art, movies, and music 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-* 🎵 [Album Finder](https://github.com/iriaPM/AlbumFinder) — iOS app using LastFM API to search & save music albums.
-* 🍴 [Restaurant Review App](https://github.com/TU856-MSD-24/Group01_MSD_Project) — Android app in Kotlin with Compose.
-* 📚 [Library Website](https://github.com/iriaPM/Library-Website) — PHP + MySQL database integration.
-* 🎨 [Music Visuals](https://github.com/mymunaalom/MusicVisuals) — Java project for real-time music visualizations.
+* [Album Finder](https://github.com/iriaPM/AlbumFinder) — iOS app using LastFM API to search & save music albums.
+* [Restaurant Review App](https://github.com/TU856-MSD-24/Group01_MSD_Project) — Android app in Kotlin with Compose.
+* [Library Website](https://github.com/iriaPM/Library-Website) — PHP + MySQL database integration.
+* [Music Visuals](https://github.com/mymunaalom/MusicVisuals) — Java project for real-time music visualizations.
 
 ---
-## 💼 Experience
+## Experience
 ### Workhuman
 Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
 
@@ -43,9 +43,9 @@ demonstrating internationalization, backend, and database experience.
 Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • SonarQube • and more
 
 ---
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -59,12 +59,12 @@ Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • Son
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### 🚀 Frameworks
+### Frameworks
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0052CC?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=uikit&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin_Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitrise](https://img.shields.io/badge/Bitrise-683D87?style=for-the-badge&logo=bitrise&logoColor=white)
@@ -78,18 +78,4 @@ Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • Son
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
---- 
-## 🔥 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iriaPM&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:iria.parada03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/iria-parada-murciego/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/iriaPM"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
----
 
