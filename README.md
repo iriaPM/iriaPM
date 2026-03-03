@@ -25,8 +25,6 @@
 * 📚 [Library Website](https://github.com/iriaPM/Library-Website) — PHP + MySQL database integration.
 * 🎨 [Music Visuals](https://github.com/mymunaalom/MusicVisuals) — Java project for real-time music visualizations.
 
-*(more on my [GitHub Repositories](https://github.com/iriaPM?tab=repositories))*
-
 ---
 ## 💼 Experience
 ### Workhuman
