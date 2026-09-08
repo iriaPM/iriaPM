@@ -4,7 +4,8 @@
 
 # Hi, Iria Here! 👩‍💻  
 
-Final-year Computer Science student at [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
+
+Software Engineer at Workhuman, Computer Science graduate from [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
 Experienced in SwiftUI, Kotlin Compose, and web technologies through industry internships and personal projects.  
 Multilingual (English, Spanish) and adaptable, eager to contribute to innovative software solutions.  
 
@@ -20,6 +21,8 @@ Multilingual (English, Spanish) and adaptable, eager to contribute to innovative
 
 ## Featured Projects
 
+
+* [TDAM](https://github.com/iriaPM/TDAM) — react native app, to explore artworks from public museums.
 * [Album Finder](https://github.com/iriaPM/AlbumFinder) — iOS app using LastFM API to search & save music albums.
 * [Restaurant Review App](https://github.com/TU856-MSD-24/Group01_MSD_Project) — Android app in Kotlin with Compose.
 * [Library Website](https://github.com/iriaPM/Library-Website) — PHP + MySQL database integration.
@@ -27,6 +30,11 @@ Multilingual (English, Spanish) and adaptable, eager to contribute to innovative
 
 ---
 ## Experience
+
+### Workhuman
+Software Engineering I | Aug 26'- current | Dublin, Ireland
+
+
 ### Workhuman
 Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
 
