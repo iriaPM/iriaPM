@@ -34,8 +34,6 @@ Multilingual (English, Spanish) and adaptable, eager to contribute to innovative
 ### Workhuman
 Software Engineer I | Aug 2026 - current | Dublin, Ireland
 
-- Working primarily as an Android Developer using Kotlin Compose, with additional experience contributing to SwiftUI/iOS work
-
 ### Workhuman
 Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
 
