@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full-Stack+Developer;iOS+%26+Android+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;iOS+%26+Android+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 # Hi, Iria Here! 👩‍💻  
 
 
-Software Engineer at Workhuman, Computer Science graduate from [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
-Experienced in SwiftUI, Kotlin Compose, and web technologies through industry internships and personal projects.  
+Software Engineer at Workhuman, Computer Science graduate (1st Class Honours) from [TU Dublin](https://www.tudublin.ie/), passionate about software development, AI/ML, and full-stack development.  
+Experienced in Kotlin Compose and SwiftUI, with a focus on Android development, through industry internships and personal projects.  
 Multilingual (English, Spanish) and adaptable, eager to contribute to innovative software solutions.  
 
 ---
-## Final-year CS Student
+## Software Engineer I @ Workhuman
 ### interests:
   - Software Development
-  - Mobile Apps (iOS + Android)
+  - Mobile Apps (Android + iOS)
   - AI / Machine Learning
   - Full-stack Web
   - I love basketball, art, movies, and music 
@@ -32,8 +32,9 @@ Multilingual (English, Spanish) and adaptable, eager to contribute to innovative
 ## Experience
 
 ### Workhuman
-Software Engineering I | Aug 26'- current | Dublin, Ireland
+Software Engineer I | Aug 2026 - current | Dublin, Ireland
 
+- Working primarily as an Android Developer using Kotlin Compose, with additional experience contributing to SwiftUI/iOS work
 
 ### Workhuman
 Software Engineering Intern | Jan-July 2025 | Dublin, Ireland
@@ -85,5 +86,3 @@ Key Technologies: SwiftUI • Kotlin • Bitrise CI/CD • Git • Agile • Son
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
